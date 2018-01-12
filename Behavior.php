@@ -86,6 +86,15 @@ class ClassName
 
 	}
 
+	public function describe_your_work_experience_and_why_you_would_be_a_good_fit()
+	{
+
+	}
+
+	public function this_is_a_high_demanding_and_often_times_difficult_role_explain_how_you_have_handled_high_pressure_environments_in_the_past()
+	{
+		
+	}
 
 
 
