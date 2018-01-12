@@ -27,4 +27,6 @@ class ClassName
 		"2" => "polymorphism",
 		"3" => "inheritance"
 	}
+
+	public function
 }
