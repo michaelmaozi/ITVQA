@@ -28,5 +28,9 @@ class ClassName
 		"3" => "inheritance"
 	}
 
-	public function
+	public function what is encapsulation()
+	{
+		"1" => "Data hiding: A language feature to restrict access to members of an object. For example, private and protected members in C++.",
+		"2" => "Bundling of data and methods together: Data and methods that operate on that data are bundled together."
+	}
 }
