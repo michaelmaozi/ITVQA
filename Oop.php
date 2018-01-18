@@ -47,4 +47,15 @@ class ClassName
 		"4" => "public - Any class can refer to the field or call the method"
 		"5" => "This assumes these keywords are used as part of a field or method declaration within a class definition"
 	}
+
+	public function what is Inheritance and what is the purpose ()
+	{
+		"1" => "The Idea of inheritance is simple, a class is based on another class and uses data and implementation of the other class"
+		"2" => "The Purpose of inheritance is Code Reuse"
+	}
+
+	public function what is Abstraction()
+	{
+		"1" => "The first thing with which one is confronted when writing programs is the problem. Typically we are confronted with “real-life” problems and we want to make life easier by providing a program for the problem. However, real-life problems are nebulous and the first thing we have to do is to try to understand the problem to separate necessary from unnecessary details: We try to obtain our own abstract view, or model, of the problem. This process of modeling is called abstraction"
+	}
 }
