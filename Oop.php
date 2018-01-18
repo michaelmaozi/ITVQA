@@ -33,4 +33,18 @@ class ClassName
 		"1" => "Data hiding: A language feature to restrict access to members of an object. For example, private and protected members in C++.",
 		"2" => "Bundling of data and methods together: Data and methods that operate on that data are bundled together."
 	}
+
+	public function what is polymorphism and how is supported by java()
+	{
+		"1" => "Polymorphism means that some code or operations or objects behave differently in different contexts. In C++,  following features support polymorphism."
+	}
+
+	public function what are _public _private _protected in object oriented programming()
+	{
+		"1" => "They are access modifiers and help us implement encapsulation (or information hiding). They tell the compiler which order classes should have access to the field or method being defined",
+		"2" => "private - Only the current class will have access to the field or method",
+		"3" => "protected - Only the current class and subclasses (and sometimes also same package classes like in Java)"
+		"4" => "public - Any class can refer to the field or call the method"
+		"5" => "This assumes these keywords are used as part of a field or method declaration within a class definition"
+	}
 }

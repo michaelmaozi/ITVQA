@@ -96,6 +96,54 @@ class ClassName
 		
 	}
 
+// https://www.thebalance.com/top-behavioral-interview-questions-2059618    - example answer
+	public function Tell me about how you worked effectively under pressure ()
+	{
+
+	}
+
+	public function  How do you handle a challenge Give an example()
+	{
+
+	}
+
+	public function Have you ever made a mistake How did you handle it()
+	{
+
+	}
+
+	public function Give an example of how you set goals()
+	{
+
+	}
+
+	public function Describe a decision you made that was not popular and how you handled implementing it()
+	{
+
+	}
+
+	public function Give an example of how you worked on a team()
+	{
+
+	}
+
+	public function What do you do if you disagree with someone at work()
+	{
+
+	}
+
+	public function Share an example of how you were able to motivate employees or coworkers()
+	{
+
+	}
+
+	public function Have you handled a difficult situation and how()
+	{
+
+	}
+
+	public function 
+
 
 
 
