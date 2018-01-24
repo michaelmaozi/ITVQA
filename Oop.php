@@ -58,4 +58,38 @@ class ClassName
 	{
 		"1" => "The first thing with which one is confronted when writing programs is the problem. Typically we are confronted with “real-life” problems and we want to make life easier by providing a program for the problem. However, real-life problems are nebulous and the first thing we have to do is to try to understand the problem to separate necessary from unnecessary details: We try to obtain our own abstract view, or model, of the problem. This process of modeling is called abstraction"
 	}
+
+	function What is a class()
+	{
+		"1" => "A class is simply a representation of a type of object. It is the blueprint/ plan/ template that describe the details of an object."
+	}
+
+	function what is an object()
+	{
+		"1" => "Object is termed as an instance of a class, and it has its own state, behavior and identity."
+	}
+
+	function define a constructor()
+	{
+		"1" => "Constructor is a method used to initialize the state of an object, and it gets invoked at the time of object creation. Rules forconstructor are:"
+		"2" => "Constructor Name should be same asclass name."
+		"3" => "Constructor must have no return type."
+	}
+
+	function define a destructor()
+	{
+		"1" => "Destructor is a method which is automatically called when the object ismade ofscope or destroyed. Destructor name is also same asclass name but with the tilde symbol before the name."
+	}
+
+	function what is an abstract class()
+	{
+		"1" => "An abstract class is a class which cannot be instantiated. Creation of an object is not possible with an abstract class, but it can be inherited. An abstract class can contain only Abstract method. Java allows only abstract method in abstract class while for other languages it allows non-abstract method as well."
+	}
+
+	function what is different between interface and abstract class()
+	{
+		"1" => "An interface is a contract, and An interface is an empty shell. There are only the signatures of the methods, which implies that the methods do not have a body. The interface can't do anything. It's just a pattern."
+		
+		"2" => "Abstract classes, unlike interfaces, are classes. They are more expensive to use, because there is a look-up to do when you inherit from them.Abstract classes look a lot like interfaces, but they have something more: You can define a behavior for them."
+	}
 }
