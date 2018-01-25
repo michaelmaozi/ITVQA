@@ -90,6 +90,6 @@ class ClassName
 	{
 		"1" => "An interface is a contract, and An interface is an empty shell. There are only the signatures of the methods, which implies that the methods do not have a body. The interface can't do anything. It's just a pattern."
 
-		"2" => "Abstract classes, unlike interfaces, are classes. They are more expensive to use, because there is a look-up to do when you inherit from them.Abstract classes look a lot like interfaces, but they have something more: You can define a behavior for them"
+		"2" => "Abstract classes, unlike interfaces, are classes. They are more expensive to use, because there is a look-up to do when you inherit from them.Abstract classes look a lot like interfaces, but they have something more: You can define a behavior for them."
 	}
 }
