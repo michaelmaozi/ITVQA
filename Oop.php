@@ -58,4 +58,8 @@ class ClassName
 	{
 		"1" => "The first thing with which one is confronted when writing programs is the problem. Typically we are confronted with “real-life” problems and we want to make life easier by providing a program for the problem. However, real-life problems are nebulous and the first thing we have to do is to try to understand the problem to separate necessary from unnecessary details: We try to obtain our own abstract view, or model, of the problem. This process of modeling is called abstraction."
 	}
+
+	function NewStuff(){
+		
+	}
 }
